@@ -1,3 +1,5 @@
 a=7
-if a%2==0
+if a%2==0:
     print("it is even number")
+else
+    print("it is odd number")
